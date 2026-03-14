@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.log
+*.sumocfg.out
+*.trips.xml.out
+trips.trips.xml
+*.zip
+dqn_rerouting_tensorboard/
+.ipynb_checkpoints/
+.DS_Store
